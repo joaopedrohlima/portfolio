@@ -22,7 +22,7 @@ Criar a primeira presença digital da empresa e aplicar conceitos iniciais de de
 
 ## 📸 Preview
 
-.....
+![Homepage](./imagens/screenshot-homepage.png)
 
 ## 📚 Aprendizados
 
